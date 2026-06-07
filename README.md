@@ -78,8 +78,7 @@ Multi-platform campaign across Google Display Network, YouTube, and Meta — wit
 
 ## Files in This Repository
 
-- `google-store-analysis.pdf` — Full presentation deck (15 slides)
-
+- [Full Presentation Deck (15 slides)](https://canva.link/bg0oge6s1zrvfa1) — hosted on Canva
 ---
 
 ## Team
